@@ -1,0 +1,154 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{xcolor}
+\usepackage[edges]{forest}
+\usepackage[utf8]{inputenc}
+\usepackage[top=1.5cm, bottom=1.5cm]{geometry}
+
+
+\title{\textbf{Gutaramira Inkotanyi} - kwerecana ihuriro hagati y'INKOTA YA MENGE n'INKOTANYI\\
+\textit{Inkotanyi = Ubuzima}}
+\author{rwagasore61}
+\date{Ndamukiza/Mata 21 2025}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\section{Ibisekuruza}
+
+
+
+\begin{forest}
+for tree={
+    grow'=down,
+    parent anchor=south,
+    child anchor=north,
+    edge={->},
+    l sep=10pt,
+    s sep=15pt,
+    anchor=center,
+    align=center,
+    calign=center,
+    calign child=2,
+}
+
+[KIZIGABA\\\ +\ \\NYIRANKENDE\\(mushiki we)
+  [RURENGE\\\ +\textcolor{red}{izina} \\(umwishwawe)
+    [KIMENYI]
+    [KAGESERA]
+    [GAHIMA]
+    [MUNGWE]
+    [JENI]
+  ]
+]
+
+\end{forest}
+
+\section{Imigwi y'ubumwe}
+
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Ukohitwa kera }&\textbf{Uwahatwara kera}& \textbf{Ukohitwa ubu} \\
+\hline
+\hline
+
+SAKARA & \textbf{Kagesera Kimenyi}& NGOMA \\
+
+INYAMIREMBE YA HUMURE & \textbf{Kabeja} & GATSIBO \\
+
+KIGALI YANJE & \textbf{Gahima} & KIGALI \\
+
+RUTABO RWANKANDA &\textcolor{blue}{\textbf{Mungwe}} & RUHENGERI(Ruhingeri) \\
+
+BUHANGA, NKOTSI NA BIKARA & \textbf{Jeni} & BUTARE \\
+\hline
+\end{tabular}
+
+\section{Itangurwa Ry'amacakwishi}
+
+\begin{itemize}
+    \item \textbf{\textcolor{blue}{MUNGWE}}: yishize hejuru abasaba guteramira iwe \textbf{maze ahita ava kuntango yubumwe}, atangura amacakwishi.
+
+    \item Abandi basigaye bahura \textbf{kuntango y'ubumwe} kiretse \textbf{MUGWE}
+\end{itemize}
+
+\section{Abatanguje urugendo rwogusubira kung'ubumwe}
+
+\underline{\textbf{INZIRA zibiri zo kurugendo gubumwe:}} \textbf{RUBANDA} na \textbf{KARUBANDA}
+\\
+
+Impanga zo gusubiz'ubumwe:
+\begin{enumerate}
+
+    \item Kibogo na Sabizeze/Kigwa\\
+    - \textbf{Kibogo} yishwe na \textbf{\textcolor{blue} {BENEMUGWE}}
+    \item Birari na \textcolor{purple}{Gihanga}\\
+    \\
+    \textcolor{purple}{GIHANGA:}\\
+    - Yabaye umwami abandanya iragi ryogusubiz'ubumwe\\
+        - Yashatse abagore bane (4) mumice yose muntumbero yo gusubiza hamwe uRwanda\\
+        - Yavyaye umukobwa,\textcolor{red}{NYIRARUCABA}, amuha \textcolor{teal}{\textbf{INKOTA YA MENGE}}...\\
+        Amubwira ati: \textbf{"uRwanda nurwera nkamata, ugomba kuzarweza nkamata"}\\
+        \\
+    
+    \textit{Kugira uRwanda nkamata ntibikunda rukiri mumacakwishi}\\
+
+
+    \textit{\textbf{$\cdots$ Haciye ibisekuru vyishi$\cdots$ }}
+
+    \item Gisa Gisangiza Umutimasibo Ngazo $\Rightarrow$ \textbf{GISA\ RWIGEMA}
+    \begin{itemize}
+        \item \underline{Inzira:}\ RUBANDA\\
+        
+        Iragi: 
+        \begin{enumerate}
+            \item 
+        Yakomeje iragi rya \textcolor{red}{NYIRARUCABA} atanguza \textcolor{teal}{INKOTA-NYI} $\rightarrow$ INKOTA YA MENGE \textbf{HOSE}.\\
+        
+       \textcolor{teal}{INKOTA-NYI} :Iri \#115 mumibare ya RWAMBA, igaruka kugarukana ubumwe MUGWE yasambuye.\\
+    
+        
+        \item Gusubiza abantu kunt\=ango yubumwe
+        \end{enumerate}
+    \end{itemize}
+    
+    \item Umugaba wingabo: Paul Kagame
+        \begin{itemize}
+            \item \underline{Inzira:} RUBANDA\\
+            
+            Iragi: 
+            \begin{enumerate}
+                \item 
+            Yabandanije aho GISA yaragejeje, iragi ry'\textcolor{teal}{INKOTA-NYI} $\rightarrow$ INKOTA HOSE kwisi.
+            \item Gusubiza abantu kunt\=ango yubumwe
+            \end{enumerate}
+        \end{itemize}
+        
+    
+\end{enumerate}
+\section{NDUMUNYARWANDA}
+\\
+
+\begin{itemize}
+    \item Iri \#177 mumibare y'RWAMBA
+    \item AMARASO $\rightarrow$ Amara ya so
+    \item BENE IRAGI $\rightarrow$ Twe
+    \item Imana KAREMANO (gatsidwa)
+    \item Imana KAMERANO $\rightarrow$ \textbf{URUMURI}
+\end{itemize}
+\textit{Iciyumviro c'ukondavyumva canke ndabitahura}\\
+
+\textbf{Ndumunyarwanda:} Urumuri Rw\=anda isi yose 
+uko ndabibona: urumuri Rw\=anda rumurikira bose nkuko izuba rimurika isi yose ritaravye ibihugu, umbwoko, rumurikira ibikoko cokimwe nabantu muburyo bumwwe, ibihema n'ibidahema. \\Urumuri nk'izuba rutuma tubona, rutuma tumenya(light/Urumuri illuminates the physical world, allowing us to see). Rurarema ibisazwebiriho, tukabona kubibona tukabimenya(discloses things to us and becomes the beginning of our knowledge). Urumuri ni kimwe mubintu kirihose, \textbf{Rw\=anda}, rutuma ibiriho bibonwa (generate the reality of everything).\\
+
+Kuritwe duhema: urumuri ni ikiraro hagati y'umwijima n'ibibaho(reality), izuba riramurica kubintu(objects) maze umuco ukava kubintu ukamurika mumaso yacu tukabona ibiriho (reality) uko biri. 
+
+Abamurikiwe = abanyarwanda. Abataramurikirwa ntirabona uko ibintu biri muri kamere yavyo baracari mumacakwishi kuko babuze iyo myumvire(knowledge) yokumenya uko ibintu biri muri kamere.
+\thispagestyle{empty}
+
+\footnote{ Amajambo agore yogusigura neza hanguma: Shyerezo, Gasani nkuba Shyerezo, Rubanda, Karubanda, Imibare ya Rwamba\\
+\textbf{Indamutso}: Shimwa gasani shyerezo; \textbf{Inyishu}: Iteka ryose gana mubihe vyose\\
+Ibibazo: umwaka abakurambere boba barabayeho, izina rymugore wa Rurenge}
+
+\end{document}
